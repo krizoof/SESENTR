@@ -1,0 +1,14 @@
+# Unencrypted dashboard — NEVER commit
+dashboard.html
+
+# Instructions with password — NEVER commit
+CLAUDE_CODE_INSTRUCTIONS.md
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+encrypt_dashboard.py
